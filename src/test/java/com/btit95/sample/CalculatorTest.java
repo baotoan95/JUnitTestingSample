@@ -30,6 +30,7 @@ public class CalculatorTest {
 	public void setUp() {
 		System.out.println("@Before called");
 		this.calculator = new Calculator();
+		
 	}
 	
 	@After
